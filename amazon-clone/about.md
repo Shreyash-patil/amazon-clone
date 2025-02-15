@@ -1,1 +1,1 @@
-This project "amazon-clone" is developed by Shreyash Patil using ReactJs. 
+This project "amazon-clone" is developed by Shreyash Patil using ReactJs and Firebase
