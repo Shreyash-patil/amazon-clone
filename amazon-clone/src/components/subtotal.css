@@ -1,0 +1,20 @@
+.subtotal__Div {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  min-width: 270px;
+  padding: 20px 20px 35px;
+  /* margin-bottom: 100px; */
+}
+
+.proceed_to_buy_btn {
+  background-color: #ffd814;
+  border: none;
+  border-radius: 7px;
+  padding: 7px;
+  margin-top: 10px;
+}
+
+.proceed_to_buy_btn:hover {
+  background-color: #edc500;
+}

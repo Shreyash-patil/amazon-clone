@@ -1,0 +1,107 @@
+body {
+  background-color: #e3e6e6;
+}
+
+.payment_page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 20px auto 0px auto;
+  max-width: 1500px;
+
+  background-color: #e3e6e6;
+}
+
+.payment_container {
+  /* display: flex; */
+  max-width: 1100px;
+  margin-top: 20px;
+
+  /* height: 200px; */
+  padding: 20px 35px 35px;
+  margin-right: 25px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.checkout_title {
+  font-weight: 400;
+}
+
+.payment_section {
+  display: flex;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #e3e6e6;
+  padding: 10px;
+}
+
+.payment_title {
+  flex: 0.2;
+}
+
+.payment_address,
+.payment_items {
+  flex: 0.8;
+}
+
+.payment_methods_div {
+  display: flex;
+  flex-direction: column;
+}
+
+.place_order_div {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  margin-top: 20px;
+  /* margin-right: 25px; */
+
+  border-radius: 10px;
+  padding: 10px;
+  min-width: 1050px;
+  margin-bottom: 10px;
+}
+
+.place_order_btn_div {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.order_total_div {
+  padding: 10px;
+}
+
+.gpay_QR {
+  height: 600px;
+  width: 500px;
+}
+
+.payment_done_label {
+  margin-right: 5px;
+  font-weight: 500;
+}
+
+.payment_done_input_div {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.order_total {
+  display: flex;
+  flex-direction: column;
+}
+
+.order_total_p {
+  font-weight: 700;
+  color: #b12704;
+}
+
+.place_order_btn {
+  background-color: #ffd814;
+  border: none;
+  border-radius: 7px;
+  padding: 7px;
+  margin-top: 10px;
+}

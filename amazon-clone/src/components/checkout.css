@@ -1,0 +1,32 @@
+body {
+  background-color: #e3e6e6;
+}
+
+.checkout__Div {
+  /* display: flex; */
+  max-width: 1100px;
+
+  /* height: 200px; */
+  padding: 20px 35px 35px;
+  margin-right: 25px;
+  background-color: #fff;
+}
+
+.checkout__title {
+  margin-bottom: 20px;
+}
+
+.top_shopping_cart_hr {
+  border-top: 1px solid #e3e6e6;
+  border-bottom: 1px solid #e3e6e6;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.checkout_container {
+  display: flex;
+  margin: 20px auto 0px auto;
+  max-width: 1500px;
+
+  background-color: #e3e6e6;
+}
